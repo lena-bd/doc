@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -35,3 +37,28 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Get Support
+
+- [NetDrive | Feature Request ↗](https://support.bdrive.com/c/netdrive3)
+- [CloudSync | Feature Request ↗](https://support.bdrive.com/c/cloudsync)
+- [License and Payments | How To ↗](https://support.bdrive.com/c/subscriptions-payments)
+
+# User Documentation
+
+- [NetDrive](netdrive)
+  - License, Accounts, Application Manual, How To & FAQ, Limitations & Known Issues, Download NetDrive2 Install File
+- [CloudSync](cloudsync)
+  - License, Accounts, Application Manual, How To & FAQ
+
+# Contact
+
+- Bdrive Inc.
+
+- Technical Support : [https://support.bdrive.com](https://support.bdrive.com)
+
+- Sales & Partnership Email : [support@bdrive.com](mailto://support@bdrive.com)
+
+- Address : #202, 6 Jukjeon-ro, Giheung-gu, Yongin-si, Gyonggi-do, South Korea. 16897
+
+<br><br><br><br><br><br>
