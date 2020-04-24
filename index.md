@@ -1,8 +1,8 @@
 # Get Support
 
-- [NetDrive Support Forum ↗](https://support.bdrive.com/c/netdrive3)
-- [CloudSync Support Forum ↗](https://support.bdrive.com/c/cloudsync)
-- [License and Payments, How To ↗](https://support.bdrive.com/c/subscriptions-payments)
+- [NetDrive Support Forum](https://support.bdrive.com/c/netdrive3)
+- [CloudSync Support Forum](https://support.bdrive.com/c/cloudsync)
+- [License and Payments, How To](https://support.bdrive.com/c/subscriptions-payments)
 
 # User Documentation
 
