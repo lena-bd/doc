@@ -1,0 +1,86 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: sidebar
+    product: License
+    version:
+    folders:
+      - title: License
+        output: web, pdf
+        folderitems:
+          - title: NetDrive3 License
+            url: /license.html
+            output: web, pdf
+            type: homepage
+
+          - title: Plans In General
+            url: /license#plans-in-general
+            output: web, pdf
+
+          - title: License Types
+            url: /license#license-types
+            output: web, pdf
+
+          - title: Add License
+            url: /license#add-license
+            output: web, pdf
+
+          - title: Add Team Member
+            url: /license#add-team-member
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf
+
+          - title: Team Manual
+            url: /license#team-manual
+            output: web, pdf

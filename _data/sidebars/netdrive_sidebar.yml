@@ -18,19 +18,35 @@ entries:
             output: pdf
             type: frontmatter
 
-      - title: User Documentation
+      - title: NetDrive
         output: web, pdf
         folderitems:
-          - title: NetDrive
+          - title: License
             url: /index.html
             output: web, pdf
             type: homepage
 
-          - title: CloudSync
+          - title: Accounts
             url: /mydoc_introduction.html
             output: web, pdf
 
-      - title: Support Forum
+          - title: Application Manual
+            url: /mydoc_supported_features.html
+            output: web, pdf
+
+          - title: 애플리케이션 매뉴얼
+            url: /mydoc_about.html
+            output: web, pdf
+
+          - title: Manual de aplicación
+            url: /mydoc_support.html
+            output: web, pdf
+
+          - title: How To & FAQ
+            url: https://support.bdrive.com/
+            output: web, pdf
+
+      - title: Release Notes
         output: web, pdf
         folderitems:
           - title: 6.0 Release notes
@@ -41,7 +57,7 @@ entries:
             url: /mydoc_release_notes_50.html
             output: web, pdf
 
-      - title: Contact
+      - title: Installation
         output: web, pdf
         folderitems:
           - title: About Ruby, Gems, Bundler, etc.
