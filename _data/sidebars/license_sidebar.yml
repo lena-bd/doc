@@ -33,54 +33,50 @@ entries:
             url: /license#team-manual
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Account Site
+            url: /license#account-site
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Subscription Auto-Renewal
+            url: /license#subscription-auto-renewal
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Lifetime Support Option
+            url: /license#lifetime-support-option
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Create Account ID
+            url: /license#create-account-id
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Reset Password
+            url: /license#reset-password
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Change Login Method
+            url: /license#change-login-method
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Invoice Link
+            url: /license#invoice-link
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Change Credit Card
+            url: /license#change-credit-card
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: End Subscription
+            url: /license#end-subscription
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Delete Account ID
+            url: /license#delete-account-id
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Refund Policy
+            url: /license#refund-policy
             output: web, pdf
 
-          - title: Team Manual
-            url: /license#team-manual
-            output: web, pdf
-
-          - title: Team Manual
-            url: /license#team-manual
+          - title: Support Site
+            url: /license#support-site
             output: web, pdf
