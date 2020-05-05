@@ -9,9 +9,9 @@ toc: false
 hide_sidebar: true
 ---
 
-- [ License ](license)
+- [ License ](2-11-license)
 
-- [ Application Manual ](application-manual) ( [English](application-manual), [한글](application-manual-kr), [Español](application-manual-es) )
+- [ Application Manual ](application_manual) ( [English](application_manual), [한글](application_manual_kr), [Español](application_manual_es) )
 
 <br>
 

@@ -7,12 +7,13 @@ permalink: index.html
 toc: false
 #summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 hide_sidebar: true
+folder: netdrive
 ---
 
 ## User Documentation
 
-- [NetDrive](netdrive)
-- [CloudSync](cloudsync)
+- [NetDrive](1-2-netdrive)
+- [CloudSync](1-3-cloudsync)
 
 ## Support Forum
 

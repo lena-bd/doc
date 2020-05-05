@@ -1,0 +1,111 @@
+---
+title: Add & Configure a Drive Item
+keywords:
+sidebar: netdrive_sidebar
+permalink: 19-72-add-configure-drive.html
+toc: false
+hide_sidebar: true
+---
+
+Click "+" button at lower right side to add drive items. You can also change drive configuration of each added drive item by clicking "CONFIG".
+
+
+{% include inline_image.html file="add_configure_drive_1.jpg" max-width="200" %}
+
+
+1. Select remote storage type from STORAGE TYPE field and then click "CONNECT" to authenticate remote storage.
+Available drive item types are as below. 
+
+    * [Backblaze B2](72-74-backblaze-b2-config)
+    * [Box](72-75-box-config)
+    * [Dropbox](72-76-dropbox-config)
+    * [FTP](72-77-ftp-config)
+    * [Google Drive](72-78-google-drive-config)
+    * [Google Cloud Storage](72-79-google-cloud-stroage-config)
+    * [hubiC](72-80-hubic-config)
+    * [OneDrive](72-81-onedrive-config)
+    * [OneDrive for Business](72-82-onedrive-for-business-config)
+    * [S3](72-83-s3-config)
+    * [S3 Compatible](72-84-s3-comp-config)
+    * [SFTP](72-85-sftp-config)
+    * [Swift](72-86-swift-config)
+    * [ucloud biz](72-87-ucloud-biz-config)
+    * [WebDAV](72-88-webdav-config)
+    * [Amazon Drive (discontinued)](72-73-amazon-drive-config)
+
+
+    
+
+2. "OPTIONS" button allows to set available options values of each storage type.
+
+
+    
+
+3. After authentication, click "BROWSE" button to browse the remote path.
+
+
+{% include inline_image.html file="add_configure_drive_2.jpg" max-width="200" %}
+
+
+    
+
+4. Type in the name of the drive item in LABEL category.
+
+
+{% include inline_image.html file="add_configure_drive_3.jpg" max-width="200" %}
+
+
+    
+
+5. Click "COLOR" button to select the background color of each drive item.
+
+
+{% include inline_image.html file="add_configure_drive_4.jpg" max-width="200" %}
+
+
+    
+
+6. Select drive letter for each mounted drive in MOUNT category.  You may also select drive type, either network drive or local drive.
+
+
+{% include inline_image.html file="add_configure_drive_5.jpg" max-width="200" %}
+
+
+    
+
+7. AUTO CONNECT OPTIONS
+
+    * **No automatic mount** : Connects only when user proceeds CONNECT command.
+    * **Mount on boot** : Connects on system boot (Windows only). Note connected drives will be shown to all windows users since it is connected by SYSTEM account.
+    * **Mount on login** : Connects when Bdrive account is logged on after NetDrive Application is executed.
+
+
+    
+
+8. UPLOAD OPTIONS : This option applies when you upload files using Windows Explorer or macOS Finder
+
+    * **Use background uploading** : After configuring a file in local cache, uploads files to remote site.  Even the file copy is completed in Windows Explorer, it is possible that NetDrive is still uploading the file in background.
+    * **Use on-the-fly uploading in Explorer** : Copies files without using cache.  It might be slightly slower than background uploading.
+
+
+    
+
+9. READ ONLY OPTIONS
+
+    * **Writable drive** : Connects as writable drives. 
+    * **Read only drive** : Connects as read only drives. Create/delete/rename of file or folder is not possible.
+
+
+    
+
+10. ADVANCED OPTION
+
+    * **Always retrieve file list from server** : Does not use cache on file list but instead calls for the file list from the server.  It might be slight slower in terms of speed.
+    * **As a removable drive** : Connects as removable drive such as USB memory stick.
+    * **Treat files and folders starting with a dot as hidden** : Files and folders with starting dot will not be shown.
+
+
+    
+
+11. Click "OK" button to finish adding a drive item.
+
