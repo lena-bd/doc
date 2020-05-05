@@ -1,5 +1,5 @@
 ---
-title: 한글
+title: 애플리케이션 매뉴얼
 keywords:
 sidebar: netdrive_sidebar
 permalink: 2-50-application-manual-kr.html
@@ -22,5 +22,3 @@ hide_sidebar: true
 - [업로드 상태](50-47-uploading)
 
 - [설정](50-40-settings)
-
-- [How To & FAQ](https://support.bdrive.com/c/how-to-faq/netdrive-howto)

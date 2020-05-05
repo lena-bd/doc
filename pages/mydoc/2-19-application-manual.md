@@ -1,10 +1,10 @@
 ---
-title: English
+title: Application Manual
 keywords:
 sidebar: netdrive_sidebar
 permalink: 2-19-application-manual.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [Installation & Uninstallation](19-60-installation)
@@ -22,5 +22,3 @@ hide_sidebar: true
 - [Uploading](19-67-uploading)
 
 - [Settings](19-68-settings)
-
-- [ How To & FAQ ](https://support.bdrive.com/c/how-to-faq/netdrive-howto)
