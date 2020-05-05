@@ -22,7 +22,8 @@ Hay cuatro sub-menúes para seleccionar mientras no está conectado a un servido
 - **Borrar** : Borra el elemento disco.
 - **Registro** : Abre el archivo de registro en el explorador de Windows listando todas las actividades de uso del disco.
 
-##**Desconectar**
+### **Desconectar**
+
 Mientras está conectado al servidor remoto, muestra el espacio en disco o la etiqueta "CONECTADO".
 
 {% include inline_image.html file="conectar_desconectar_3.jpg" max-width="200" %}
@@ -37,4 +38,3 @@ Hay cuatro sub-menúes para seleccionar mientras esté conectado al servidor rem
 - **Configurar** : Cambia las configuraciones del elemento disco. Si está conectado, hay limitaciones en los cambios que se pueden realizar, y estos se aplicarán en su próxima conexión.
 - **Duplicar** : Crea una copia del elemento disco.
 - **Registro** : Abre la carpeta del archivo de registro en el Explorador de Windows o el Buscador de macOS, el cual contiene las actividades realizadas en el disco.
-<BR><BR><BR><BR><BR><BR>

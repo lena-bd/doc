@@ -7,20 +7,17 @@ toc: false
 hide_sidebar: true
 ---
 
-File listing (WebDAV, FTP/FTPS/ SFTP)
-=====================================
+## File listing (WebDAV, FTP/FTPS/ SFTP)
 
 For WebDAV, FTP/FTPS, SFTP protocols file list reloading from server will be blocked for a folder where files are being uploaded. File listing for other folders are working without any limits.
 
 Because of this limitations, files uploaded to **the same folder** from other users will be shown when file uploading is finised.
 
-File system is not available (macOS)
-=====================================
+## File system is not available (macOS)
 
+{% include inline_image.html file="manual_limitations_fs_not_available.jpg" max-width="500" alt="Filesystem is not available" %}
 
-{% include inline_image.html file="limitations_1.jpg" max-width="200" %}
-    When you cannot mount remote storage on macOS
-
+When you cannot mount remote storage on macOS
 
 NetDrive needs to register a virtual device for user to access virtual file systems. The number of available virtual device slots are limited by macOS. So if you are using other softwares that uses these device slots NetDrive will not be able to register its virtual device and it cannot connect to remote storages.
 
@@ -51,9 +48,10 @@ You can unload kext using following command.
 
 After unload some kexts please install NetDrive again to register NetDrive virtual device.
 
-Locked files shown to be deleted (Windows)
-=======================================
+## Locked files shown to be deleted (Windows)
 
 From NetDrive 3.9 we supports file locking. Locked files cannot be overwritten, renamed or deleted. On Windows operating system when you try to delete locked file it is deleted and will disappear from Windows Explorer but actually the file is not removed from your server. After refresh or remount you can find your file again.
 
 This is a known issue and we are looking for the solution.
+
+{% include links.html %}
