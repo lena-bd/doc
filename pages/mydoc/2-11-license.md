@@ -3,7 +3,7 @@ title: License
 keywords:
 sidebar: netdrive_sidebar
 permalink: 2-11-license.html
-toc: true
+toc: false
 hide_sidebar: false
 ---
 

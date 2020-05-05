@@ -1,10 +1,10 @@
 ---
-title: Title
+title: User Manual
 keywords:
 sidebar: netdrive_sidebar
 permalink: 2-20-usermanual.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [Installation & Uninstallation](20-51-installation)

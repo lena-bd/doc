@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 3-18-about.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Creator of the popular remote storage mount software NetDrive, we produce cutting-edge software integrating applications with online services for sharing, accessing and storing files, over a broad range of devices.

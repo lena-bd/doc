@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 125-156-authentication-in-cloudsync.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 You will see the following authentication screen if you run CloudSync.
@@ -30,4 +30,4 @@ You will see the following authentication screen if you run CloudSync.
 - The ** "PROXY SETTINGS" ** option is available only when the Internet is received through a configured proxy.
 
 - The ** "SETTINGS" ** option can be used to change the registration level.
-<BR> <BR> <BR> <BR> <BR> <BR>
+     

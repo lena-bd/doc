@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-99-conectar-desconectar.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 ### **Conectar**

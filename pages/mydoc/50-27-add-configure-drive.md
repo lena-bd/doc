@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 50-27-add-configure-drive.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 우측 하단의 "+" 버튼을 누르면 드라이브 아이템을 추가할 수 있습니다. 또는 이미 추가된 드라이브에서 "CONFIG"를 선택하면 드라이브의 설정 값을 변경할 수 있습니다.
@@ -43,7 +43,7 @@ hide_sidebar: true
 
 - 드라이브 아이템의 배경색을 설정할 수 있습니다.
 
-{% include inline_image.html file="add_configure_drive_4.jpg" max-width="200" %}
+{% include inline_image.html file="add_configure_drive_4.png" max-width="200" %}
 
 - MOUNT에서 사용할 드라이브 레터를 선택하고, 드라이브의 타입을 네트워크 또는 로컬 드라이브를 선택합니다.
 

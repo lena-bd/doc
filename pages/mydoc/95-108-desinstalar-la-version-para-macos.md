@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 95-108-desinstalar-la-version-para-macos.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Luego de ejecutar el archivo de instalación descargado, pinche dos veces sobre "uninstall.tool".

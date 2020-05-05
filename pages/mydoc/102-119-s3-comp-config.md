@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 102-119-s3-comp-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 NetDrive suporta la conexión compatible con S3, tales como wasabi.com.

@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 126-134-autenticacion-en-cloudsync.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Verá la siguiente pantalla de autenticación si ejecuta CloudSync.
@@ -30,4 +30,3 @@ Verá la siguiente pantalla de autenticación si ejecuta CloudSync.
 - La opción **"CONFIGURACIONES PROXY"** está disponible sólo cuando el Internet se recibe mediante un proxy configurado.
 
 - La opción **"CONFIGURACIONES"** puede usarse para cambiar el nivel de registro.
-<BR><BR><BR><BR><BR><BR>

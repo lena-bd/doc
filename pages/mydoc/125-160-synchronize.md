@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 125-160-synchronize.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 ###**Sync up**
@@ -22,4 +22,4 @@ There are four sub-menus to select while not connected to a remote server.
 - ** DELETE **: Deletes the current task.
 - ** SYNC NOW **: Performs synchronization between disks, as specified in the task settings.
 
-<BR> <BR> <BR> <BR> <BR> <BR>
+     

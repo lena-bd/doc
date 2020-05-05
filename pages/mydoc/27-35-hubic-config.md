@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 27-35-hubic-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONNECT

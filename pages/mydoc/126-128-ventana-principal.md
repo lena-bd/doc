@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 126-128-ventana-principal.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Encontrará los siguientes menúes en la Aplicación CloudSync luego de autenticarse.
@@ -21,4 +21,4 @@ Encontrará los siguientes menúes en la Aplicación CloudSync luego de autentic
 
     - **ACERCA DE** : Una breve nota sobre la versión y licencia de CloudSync
 
-- Pinche el botón "+" en la esquina inferior derecha para agregar una tarea de sincronización.<BR><BR><BR><BR><BR><BR><BR><BR><BR>
+- Pinche el botón "+" en la esquina inferior derecha para agregar una tarea de sincronización.

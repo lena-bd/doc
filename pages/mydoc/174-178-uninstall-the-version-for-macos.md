@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 174-178-uninstall-the-version-for-macos.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 다운로드 받은 설치파일을 실행한 후, uninstall.tool을 더블클릭하여 실행합니다.

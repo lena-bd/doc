@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 27-38-s3-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONNECT

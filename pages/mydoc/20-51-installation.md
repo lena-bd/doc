@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 20-51-installation.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 영문으로 번역할 것...

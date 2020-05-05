@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-102-agregar-configurar-un-elemento-de-disco.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Pinche el botón "+" en el lado inferior derecho para agregar elementos de disco. También puede cambiar la configuración del disco de cada elemento agregado pinchando "CONFIGURAR".
@@ -33,7 +33,7 @@ Pinche el botón "+" en el lado inferior derecho para agregar elementos de disco
 
 - El botón "OPCIONES" permite establecer los valores de las opciones disponibles para cada tipo de almacenamiento.
 
-- Después de autenticarse, pinche el botón "HOJEAR" para hojear la ruta remota.
+* Después de autenticarse, pinche el botón "HOJEAR" para hojear la ruta remota.
 
 {% include inline_image.html file="agregar_configurar_un_elemento_de_disco_2.jpg" max-width="200" %}
 
@@ -51,24 +51,26 @@ Pinche el botón "+" en el lado inferior derecho para agregar elementos de disco
 
 - OPCIONES DE AUTO CONEXION
 
-  - **Sin montaje automático** : Sólo se conecta cuando el usuario procede con el comando CONECTAR.
-  - **Montar al iniciar** : Se conecta al arrancar el sistema (Sólo Windows). Note que los discos conectados se mostrarán a todos los usuarios de Windows ya que son conectados por la cuenta SYSTEM (SISTEMA).
-  - **Montar al autenticarse** : Se conecta cuando la cuenta Bdrive es autenticada luego que la Aplicación de NetDrive es ejecutada.
+  - <B>Sin montaje automático</B> : Sólo se conecta cuando el usuario procede con el comando CONECTAR.
+  - <B>Montar al iniciar</B> : Se conecta al arrancar el sistema (Sólo Windows). Note que los discos conectados se mostrarán a todos los usuarios de Windows ya que son conectados por la cuenta SYSTEM (SISTEMA).
+  - <B>Montar al autenticarse</B> : Se conecta cuando la cuenta Bdrive es autenticada luego que la Aplicación de NetDrive es ejecutada.
 
-- OPCIONES DE SUBIDA : Esta opción aplica cuando sube archivos usando el Explorador de Windows o el Buscador de macOS
+* OPCIONES DE SUBIDA : Esta opción aplica cuando sube archivos usando el Explorador de Windows o el Buscador de macOS
 
-  - **Usar subida en segundo plano** : Después de configurar un archivo en caché local, sube archivos a un sitio remoto. Aún cuando la copia se haya completado en el Explorador de Windows, es posible que NetDrive aún esté subiendo el archivo en segundo plano.
-  - **Usar subida al vuelo en el Explorador** : Copia los archivos sin usar caché. Podría ser un poco más lento que la subida en segundo plano.
+  - <B>Usar subida en segundo plano</B> : Después de configurar un archivo en caché local, sube archivos a un sitio remoto. Aún cuando la copia se haya completado en el Explorador de Windows, es posible que NetDrive aún esté subiendo el archivo en segundo plano.
+  - <B>Usar subida al vuelo en el Explorador</B> : Copia los archivos sin usar caché. Podría ser un poco más lento que la subida en segundo plano.
 
 - OPCIONES DE SOLO LECTURA
 
-  - **Disco escribible** : Conecta como discos escribibles.
-  - **Disco de sólo lectura** : Conecta como discos de sólo lectura. Crear/borrar/renombrar archivos o carpetas no es posible.
+  - <B>Disco escribible</B> : Conecta como discos escribibles.
+  - <B>Disco de sólo lectura</B> : Conecta como discos de sólo lectura. Crear/borrar/renombrar archivos o carpetas no es posible.
 
-- OPCION AVANZADA
+* OPCION AVANZADA
 
-  - **Siempre recuperar la lista de archivos desde el servidor** : No usa caché sobre la lista de archivos, ya que en su lugar solicita dicha lista directo del servidor. Podría ser un poco más lento en términos de velocidad.
-  - **Como un disco removible** : Conecta como un disco removible tal y como se hace con las memorias USB.
-  - **Tratar archivos y carpetas que inician con punto como ocultos** : Los archivos y carpetas que inician con un punto no se mostrarán.
+  - <B>Siempre recuperar la lista de archivos desde el servidor</B> : No usa caché sobre la lista de archivos, ya que en su lugar solicita dicha lista directo del servidor. Podría ser un poco más lento en términos de velocidad.
+
+  - <B>Como un disco removible</B> : Conecta como un disco removible tal y como se hace con las memorias USB.
+
+  - <B>Tratar archivos y carpetas que inician con punto como ocultos</B> : Los archivos y carpetas que inician con un punto no se mostrarán.
 
 - Pinche el botón "ACEPTAR" para terminar de agregar un elemento disco.

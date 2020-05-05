@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 127-179-authentication-in-cloudsync.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CloudSync를 처음 실행하면 아래와 같은 로그인 화면을 볼 수 있습니다.
@@ -34,4 +34,4 @@ CloudSync를 처음 실행하면 아래와 같은 로그인 화면을 볼 수 �
 - "PROXY SETTING"은 Proxy 설정을 해야만 인터넷 사용이 가능한 경우에 사용합니다.
 
 - "SETTING"은 로그 수준을 변경하는 것과 같은 설정을 변경할때 사용합니다.
-<BR> <BR> <BR> <BR> <BR> <BR>
+     

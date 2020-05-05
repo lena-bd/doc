@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 125-151-installation-uninstallation.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 You can download the most recently updated version of the **CloudSync installation file **from our download page [https://cloudsync.bdrive.com](https://cloudsync.bdrive.com/).
@@ -17,6 +17,6 @@ You can download the most recently updated version of the **CloudSync installati
 
 - [Uninstall macOS version](151-155-uninstall-the-version-for-macos)
 
-<BR>
+
 You can also download the **CloudSync installation file** from [your Bdrive Account page](https://accounts.bdrive.com/plans_products/CloudSync/).
-<BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR> <BR>
+        

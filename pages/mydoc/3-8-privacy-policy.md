@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 3-8-privacy-policy.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 What information do we collect?

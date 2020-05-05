@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 151-155-uninstall-the-version-for-macos.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 After executing the downloaded installation file, double click on "uninstall.tool".

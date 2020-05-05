@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-103-autenticacion-en-netdrive.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Verá la siguiente pantalla de autenticación si ejecuta NetDrive.
@@ -30,4 +30,3 @@ Verá la siguiente pantalla de autenticación si ejecuta NetDrive.
 - La opción **"CONFIGURACIONES PROXY"** está disponible sólo cuando el Internet se recibe mediante un proxy configurado.
 
 - La opción **"CONFIGURACIONES"** puede usarse para cambiar el nivel de registro.
-<BR><BR><BR><BR><BR><BR>

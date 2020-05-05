@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 27-41-sftp-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONNECT

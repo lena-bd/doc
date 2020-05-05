@@ -4,27 +4,27 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 60-92-uninstallation-windows.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Windows 10
 ------------------
 
-1. Select Apps in Windows Settings. 
+- Select Apps in Windows Settings. 
 
-2. Select NetDrive3 in Apps & features.
+- Select NetDrive3 in Apps & features.
 
 
 {% include inline_image.html file="uninstallation_windows_1.jpg" max-width="200" %}
 
 
-3. Click Uninstall.
+- Click Uninstall.
 
 
 Other Windows versions
 ------------------
 
-1. Select Program and Features in Control Panel.
+- Select Program and Features in Control Panel.
 
-2. Select NetDrive3 from program list to uninstall.
+- Select NetDrive3 from program list to uninstall.
 

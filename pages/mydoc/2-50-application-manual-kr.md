@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 2-50-application-manual-kr.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [설치와 삭제](50-21-installation)

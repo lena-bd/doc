@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-96-autenticacion-de-netdrive.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Verá la siguiente pantalla de autenticación si ejecuta NetDrive.

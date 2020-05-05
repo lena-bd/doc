@@ -78,7 +78,6 @@ Here's the sample knowledge-base style layout:
          </div>
 </div>
 
-
 ## Generating a list of all pages with a certain tag
 
 If you don't want to link to a tag archive index, but instead want to list all pages that have a certain tag, you could use this code:

@@ -22,3 +22,5 @@ hide_sidebar: false
 - [Uploading](19-67-uploading)
 
 - [Settings](19-68-settings)
+
+- [ How To & FAQ ](https://support.bdrive.com/c/how-to-faq/netdrive-howto)

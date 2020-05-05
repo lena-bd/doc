@@ -4,11 +4,10 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 50-24-netdrive-login.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 넷드라이브를 처음 실행하면 아래와 같은 로그인 화면을 볼 수 있습니다.
-
 {% include inline_image.html file="netdrive_login_1.jpg" max-width="200" %}
 
 - Bdrive 계정인 Email과 비밀번호를 입력하여 Login 버튼을 누릅니다.

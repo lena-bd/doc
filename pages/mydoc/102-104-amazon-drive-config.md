@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 102-104-amazon-drive-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONECTAR

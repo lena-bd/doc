@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 102-111-dropbox-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONECTAR

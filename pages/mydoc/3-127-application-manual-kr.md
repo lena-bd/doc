@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 3-127-application-manual-kr.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [설치와 삭제](127-174-installation-uninstallation)
@@ -24,4 +24,4 @@ hide_sidebar: true
 - [설정](settings)
 
 - [How To & FAQ](https://support.bdrive.com/c/how-to-faq/cloudsync-how-to)
-<BR> <BR>
+ 

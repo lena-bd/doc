@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 159-172-webdav-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONNECT

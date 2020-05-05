@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 72-75-box-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 CONNECT

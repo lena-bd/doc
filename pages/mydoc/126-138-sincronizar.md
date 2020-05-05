@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 126-138-sincronizar.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 ### **Sincronizar**
@@ -22,4 +22,3 @@ Hay cuatro sub-menúes para seleccionar mientras no está conectado a un servido
 - **DELETE (BORRAR)** : Borra la tarea actual.
 - **SYNC NOW (SINCRONIZAR AHORA)** : Ejecuta la sincronización entre los discos, conforme lo especificado en las configuraciones de la tarea.
 
-<BR><BR><BR><BR><BR><BR>

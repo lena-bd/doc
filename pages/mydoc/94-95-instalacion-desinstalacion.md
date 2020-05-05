@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-95-instalacion-desinstalacion.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Puede descargar la versión más recientemente actualizada del **archivo de instalación de NetDrive** desde nuestra página de descarga [https://www.netdrive.net/download/](https://www.netdrive.net/download/).
@@ -17,6 +17,4 @@ Puede descargar la versión más recientemente actualizada del **archivo de inst
 
 - [Desinstalar la versión para macOS](95-108-desinstalar-la-version-para-macos)
 
-<BR>
 También puede descargar el **archivo de instalación de NetDrive** desde la [página de su Cuenta Bdrive](https://accounts.bdrive.com/plans_products/NetDrive3/).
-<BR><BR><BR><BR><BR><BR><BR><BR><BR>

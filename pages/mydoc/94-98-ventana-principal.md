@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 94-98-ventana-principal.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 Encontrará los siguientes menúes en la Aplicación NetDrive luego de autenticarse.
@@ -13,12 +13,12 @@ Encontrará los siguientes menúes en la Aplicación NetDrive luego de autentica
 
 - Encuentra "DISCOS", "SUBIENDO", "CONFIGURACIONES", "ACERCA DE" en el menú principal en la esquina superior izquierda.
 
-    - **DISCOS** : Lista los discos que están agregados o actualmente disponibles
+  - **DISCOS** : Lista los discos que están agregados o actualmente disponibles
 
-    - **SUBIENDO** : Muestra la lista de archivos y el estado de los archivos que se están subiendo
+  - **SUBIENDO** : Muestra la lista de archivos y el estado de los archivos que se están subiendo
 
-    - **CONFIGURACIONES** : Permite establecer las opciones (General, Caché, Registro, Red)
+  - **CONFIGURACIONES** : Permite establecer las opciones (General, Caché, Registro, Red)
 
-    - **ACERCA DE** : Una breve nota sobre la versión y licencia de NetDrive
+  - **ACERCA DE** : Una breve nota sobre la versión y licencia de NetDrive
 
-- Pinche el botón "+" en la esquina inferior derecha para agregar un elemento de disco.<BR><BR><BR><BR><BR><BR><BR><BR><BR>
+- Pinche el botón "+" en la esquina inferior derecha para agregar un elemento de disco.

@@ -1,10 +1,10 @@
 ---
-title: Español
+title: Manual de la aplicación
 keywords:
 sidebar: netdrive_sidebar
 permalink: 3-126-application-manual-es.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [Instalación & Desinstalación](126-129-instalacion-desinstalacion)
@@ -24,4 +24,3 @@ hide_sidebar: true
 - [Configuraciones](126-137-configuraciones)
 
 - [Cómo & Preguntas Frecuentes (FAQ)](https://support.bdrive.com/c/how-to-faq/cloudsync-how-to)
-<BR><BR>

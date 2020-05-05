@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 60-93-uninstallation-macos.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 After executing the downloaded install file, double click "uninstall.tool".

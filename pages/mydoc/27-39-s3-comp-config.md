@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 27-39-s3-comp-config.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 S3와 호환되는 wasabi.com 과 같은 서비스를 NetDrive로 연결할 수 있습니다.

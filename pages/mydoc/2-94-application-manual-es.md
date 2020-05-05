@@ -4,7 +4,7 @@ keywords:
 sidebar: netdrive_sidebar
 permalink: 2-94-application-manual-es.html
 toc: false
-hide_sidebar: true
+hide_sidebar: false
 ---
 
 - [Instalación & Desinstalación](94-95-instalacion-desinstalacion)
@@ -22,3 +22,5 @@ hide_sidebar: true
 - [Subiendo](94-100-subiendo)
 
 - [Configuraciones](94-101-configuraciones)
+
+- [Cómo & Preguntas Frecuentes (FAQ)](https://support.bdrive.com/c/how-to-faq/netdrive-howto)
