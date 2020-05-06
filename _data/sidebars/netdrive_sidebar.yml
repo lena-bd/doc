@@ -8,6 +8,9 @@ entries:
       - title: NetDrive
         output: web
         folderitems:
+          - title: NetDrive
+            url: /1-2-netdrive.html
+            output: web
           - title: License
             url: /2-11-license.html
             output: web
@@ -17,46 +20,49 @@ entries:
                 output: web
                 subfolderitems:
                   - title: Install & Uninstall
-                    url: /tag_formatting.html
+                    url: /19-60-installation.html
                     output: web
 
                   - title: NetDrive Login
-                    url: /tag_navigation.html
+                    url: /19-61-netdrive-login.html
                     output: web
 
                   - title: NetDrive Logout
-                    url: /tag_content_types.html
+                    url: /19-62-netdrive-logout.html
                     output: web
 
                   - title: Main Window
-                    url: /tag_publishing.html
+                    url: /19-63-main-window.html
                     output: web
 
                   - title: Add & Configure a Drive Item
-                    url: /tag_special_layouts.html
+                    url: /19-72-add-configure-drive.html
                     output: web
 
                   - title: Uploading
-                    url: /tag_collaboration.html
+                    url: /19-67-uploading.html
                     output: web
 
                   - title: Settings
-                    url: /tag_troubleshooting.html
+                    url: /19-68-settings.html
                     output: web
 
           - title: Limitations & Known Issues
-            url: /2-11-license.html
+            url: /2-12-limitations.html
             output: web
 
           - title: NetDrive 2
-            url: /2-11-license.html
+            url: /2-13-netdrive2.html
             output: web
 
       - title: CloudSync
         output: web
         folderitems:
+          - title: CloudSync
+            url: /1-3-cloudsync.html
+            output: web
           - title: License
-            url: /2-11-license.html
+            url: /3-14-license.html
             output: web
 
             subfolders:
@@ -64,48 +70,52 @@ entries:
                 output: web
                 subfolderitems:
                   - title: Install & Uninstall
-                    url: /tag_formatting.html
+                    url: /125-151-installation-uninstallation.html
                     output: web
 
-                  - title: NetDrive Login
-                    url: /tag_navigation.html
+                  - title: CloudSync Login
+                    url: /125-156-authentication-in-cloudsync.html
                     output: web
 
-                  - title: NetDrive Logout
-                    url: /tag_content_types.html
+                  - title: CloudSync Logout
+                    url: /125-157-close-session-cloudsync.html
                     output: web
 
                   - title: Main Window
-                    url: /tag_publishing.html
+                    url: /125-158-main-window.html
                     output: web
 
-                  - title: Add & Configure a Drive Item
-                    url: /tag_special_layouts.html
+                  - title: Add & Configure a Sync Task
+                    url: /125-159-add-configure-a-task.html
                     output: web
 
-                  - title: Uploading
-                    url: /tag_collaboration.html
+                  - title: Synchronize
+                    url: /125-160-synchronize.html
+                    output: web
+
+                  - title: History
+                    url: /125-161-history.html
                     output: web
 
                   - title: Settings
-                    url: /tag_troubleshooting.html
+                    url: /125-162-settings.html
                     output: web
 
       - title: Support Forum
         output: web, pdf
         folderitems:
           - title: NetDrive Support Forum
-            url: /mydoc_about_ruby_gems_etc.html
+            url: https://support.bdrive.com/c/netdrive3
             output: web, pdf
 
           - title: CloudSync Support Forum
-            url: /mydoc_install_jekyll_on_mac.html
+            url: https://support.bdrive.com/c/cloudsync
             output: web, pdf
 
           - title: License and Payments
-            url: /mydoc_install_jekyll_on_windows.html
+            url: https://support.bdrive.com/c/subscriptions-payments
             output: web, pdf
 
-          - title: How To
-            url: /mydoc_install_jekyll_on_windows.html
+          - title: License FAQ
+            url: https://support.bdrive.com/c/subscriptions-payments/how-to/31
             output: web, pdf
