@@ -25,7 +25,7 @@ folder: netdrive
 
 - Bdrive Inc.
 - Technical Support : [https://support.bdrive.com](https://support.bdrive.com)
-- Sales & Partnership Email : [support@bdrive.com](mailto://support@bdrive.com)
+- Sales & Partnership Email : [sales@bdrive.com](mailto://sales@bdrive.com)
 - Address : #202, 6 Jukjeon-ro, Giheung-gu, Yongin-si, Gyonggi-do, South Korea. 16897
 
 {% include links.html %}
