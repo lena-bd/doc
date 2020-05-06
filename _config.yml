@@ -93,7 +93,7 @@ defaults:
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: home_sidebar
+      sidebar: netdrive_sidebar
       topnav: topnav
 
 # these are defaults used for the frontmatter for these file types
@@ -101,6 +101,7 @@ defaults:
 sidebars:
   - home_sidebar
   - mydoc_sidebar
+  - netdrive_sidebar
   - product1_sidebar
   - product2_sidebar
   - other
