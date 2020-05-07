@@ -59,4 +59,4 @@ This Agreement will be governed by the laws of the Republic of Korea applicable 
 
 ---
 
-You may [contact us](mailto:support@bdrive.com) for a full refund within 14 days of your payment.
+You may [contact us](mailto:sales@bdrive.com) for a full refund within 14 days of your payment.
