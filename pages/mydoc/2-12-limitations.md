@@ -53,3 +53,7 @@ After unload some kexts please install NetDrive again to register NetDrive virtu
 From NetDrive 3.9 we supports file locking. Locked files cannot be overwritten, renamed or deleted. On Windows operating system when you try to delete locked file it is deleted and will disappear from Windows Explorer but actually the file is not removed from your server. After refresh or remount you can find your file again.
 
 This is a known issue and we are looking for the solution.
+
+### Failed to upgrade from 3.7 and below (Windows)
+
+If you have problem when upgrading from NetDrive 3.7 and below please uninstall first and install recent version.
